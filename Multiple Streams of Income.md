@@ -1,8 +1,10 @@
 # Multiple Streams of Income
 
-Multiple streams of income just acknowledges that we live in an uncertain world, 
-and depending on a single stream of income is risky. So people might try and
-generate multiple streams of income to reduce their risk. Some possibilities:
+Generating multiple streams of income just acknowledges that we live in an uncertain
+world.  Depending on a single stream of income is risky.  So it's a good idea to try
+and generate multiple streams of income to reduce risk.
+
+Some possibilities:
 
 1. Social Security
 2. Pension
