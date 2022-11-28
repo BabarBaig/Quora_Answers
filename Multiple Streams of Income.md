@@ -1,4 +1,4 @@
-*** Multiple Streams of Income ***
+# Multiple Streams of Income
 
 Multiple streams of income just acknowledges that we live in an uncertain world, 
 and depending on a single stream of income is risky. So people might try and
